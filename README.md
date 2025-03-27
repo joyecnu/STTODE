@@ -20,4 +20,6 @@ install the dependencies from the requirements.txt:
 
 
 
+# model
+ds![image](https://github.com/user-attachments/assets/df1c4e8f-e561-42f4-a724-d8fd8e257aeb)
 
