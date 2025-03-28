@@ -26,7 +26,7 @@ install the dependencies from the requirements.txt:
 
 
 # model
-![image](https://github.com/user-attachments/assets/eb4b01fe-7e44-4917-9345-54e101496387){width="400"}
+![image](https://github.com/user-attachments/assets/eb4b01fe-7e44-4917-9345-54e101496387){width="200"}
 ![image](https://github.com/user-attachments/assets/75776bda-c7e0-4e38-ab0c-235d283d8d47)
 
 
