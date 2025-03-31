@@ -21,9 +21,19 @@ Python == 3.7.11
 PyTorch == 1.8.1+cu111
 
 # Dependencies
-install the dependencies from the requirements.txt:
+install the dependencies from the requirement.txt:
 
+# trian
+python train.py --dataset eth
 
+# test
+python test.py --dataset eth
+
+# train sampler
+python trainsampler.py --dataset eth
+
+# test sampler
+python test_sampeler.py --dataset eth
 
 # model
 ![image](https://github.com/user-attachments/assets/eb4b01fe-7e44-4917-9345-54e101496387){width="200"}
